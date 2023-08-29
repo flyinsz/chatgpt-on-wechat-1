@@ -29,7 +29,7 @@ chatgpt_tool_hub==0.4.6
 # xunfei spark
 websocket-client==1.2.0
 
-torch
+# torch
 
 # for timetask
 openpyxl
